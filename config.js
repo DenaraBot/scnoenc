@@ -30,9 +30,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = 'https://instagram.com/denarajb'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/c/DenaraBot' // my youtube channel
 
@@ -111,7 +111,7 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 global.wm = '                「 DENARA-BOT-V1 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DENARA-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm3 = '⫹⫺ DENARA-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By DENARA-BOT`
