@@ -46,10 +46,10 @@ global.ppulsa2 = '085727492435' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/denarabot26'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285727492435'
-global.nomorown = '6281215626270'
-global.namebot = 'DENARA-BOT-V1'
-global.nameown = 'DENARA BOT'
+global.nomorbot = '6282112256051'
+global.nomorown = '62895609911700'
+global.namebot = 'QUBO BOT'
+global.nameown = 'QOBOO BOT'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,8 +58,8 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281215626270', 'DENARA', true],
-  ['-', 'isi_kalau_ada', true],
+  ['62895609911700', 'QUBO', true],
+  ['6282112256051', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
